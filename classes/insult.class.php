@@ -2,7 +2,7 @@
 
 require_once 'insult.interface.php';
 
-Class Insult implements Insults {
+Class Insult implements iInsults {
 
 	public static function random()
 	{
